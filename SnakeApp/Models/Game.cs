@@ -13,6 +13,6 @@
             Board = new Board();
         }
 
-        // Add methods for game logic such as starting, updating state, checking for game over, etc.
+        // TODO: Add methods for game logic (starting, updating state, checking for game over, etc.)
     }
 }

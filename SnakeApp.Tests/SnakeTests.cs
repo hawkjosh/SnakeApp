@@ -113,5 +113,6 @@ namespace SnakeApp.Tests
         }
 
         // TODO: Add other tests for Snake class
+
     }
 }

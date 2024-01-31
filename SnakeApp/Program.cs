@@ -4,10 +4,13 @@ namespace SnakeApp
 {
     public class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            var gm = new GameController();
-            gm.Start();
+            var NewGame = new GameController();
+            NewGame.Start();
+
+            //Console.Write("Press any key to exit . . . ");
+            //Console.Read();
         }
     }
 }
